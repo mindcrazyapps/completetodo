@@ -1,15 +1,3 @@
-<br/>
-
-<h5 align="right">rockapps.github.io</h5>
-
-<p align="center">
- <img src="https://cdn-icons-png.flaticon.com/512/1600/1600856.png" alt="image" width="70px">
-</p>
-
-
-<h4 align="center"> Please see this live demo <a href="https://tiddlywiki-store.netlify.app/"> here </a>  and the documentation <a href="https://mindcrazyapps.github.io/tiddlywiki-store/#/"> here </a> here </h3>
-
-
 # Shitty Todo app [![Netlify Status](https://api.netlify.com/api/v1/badges/7cf66440-1992-4145-a6a0-f57b7db05c1a/deploy-status)](https://app.netlify.com/sites/shitty-vue-todo/deploys)  
 [Link](https://shitty-vue-todo.netlify.app/#/)  
   
@@ -64,3 +52,13 @@ Hope you never use or watch this shitty code.
 ## More readmes
 - [Install and run](install-and-run.md)
 - [Env](env.md)
+
+## About NextExperience
+
+<img align="right" width="120" height="120" src="https://cdn-icons-png.flaticon.com/512/1600/1600856.png" hspace="50">
+
+NextExperience is a team of digital specialists around the world interested in building high-quality open source products on a global market. We are [open](https://codex.so/join) for young people who want to constantly improve their skills and grow professionally with experiments in cutting-edge technologies.
+
+| 🌐 | Join  👋  | Twitter | Instagram |
+| -- | -- | -- | -- |
+| [nextexperience.so](https://nextexperience.so) | [nextexperience.so/join](https://nextexperience.so/join) |[@nextexperience_team](http://twitter.com/nextexperience_team) | [@nextexperience_team](http://instagram.com/nextexperience_team/) |
