@@ -5761,6 +5761,11 @@ vue-cli-plugin-vuetify@^2.4.8:
     semver "^7.1.2"
     shelljs "^0.8.3"
 
+vue-cute-timeline@^1.2.10:
+  version "1.2.10"
+  resolved "https://registry.yarnpkg.com/vue-cute-timeline/-/vue-cute-timeline-1.2.10.tgz#deded2f7fe2ccc979d6ef10b250a1e9b634b1dfd"
+  integrity sha512-kzzFkQUdE93+tYz7dGK9gUl2k8+9fd0//ISlg6qZqv97l9rK/xt+eCSXdqI7+leoSkSGgN2EqoMO91UKdY62Gw==
+
 vue-eslint-parser@^8.0.1:
   version "8.3.0"
   resolved "https://registry.npmjs.org/vue-eslint-parser/-/vue-eslint-parser-8.3.0.tgz"
